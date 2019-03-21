@@ -1273,6 +1273,7 @@ static const struct acpi_device_id elan_acpi_id[] = {
 	{ "ELAN469D", 0 },
 	{ "ELAN959A", 0 },
 	{ "ELAN1000", 0 },
+	{ "ELAN1200", 0 },
 	{ "ELAN1203", 0 },
 	{ "ELAN1300", 0 },
 	{ }
